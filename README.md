@@ -1,6 +1,6 @@
 
 
-Alicia leverages quantum computing to generate cryptographic key pairs and keys. It utilizes IBM Quantum, Azure Quantum to enhance the security of generated keys with true RNG. A simulated quantum backend was also added to demonstrate functionality. 
+Alicia leverages quantum computing to generate cryptographic key pairs and keys. It utilizes IBM Quantum or Azure Quantum to enhance the security of generated keys with true RNG. A simulated quantum backend was also added to demonstrate functionality. 
 
 
 -Supports RSA, ECC, AES, DES, 3DES, and SSH
