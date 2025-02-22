@@ -4,13 +4,12 @@ Alicia is an innovative project that leverages quantum computing to generate cry
 
 
 
-Features
-
--Quantum-Assisted Key Generation: Uses IBM Quantum or Azure Quantum for randomness.
--Multiple Cryptographic Algorithms: Supports RSA, ECC, AES, DES, 3DES, and SSH key generation.
--Flask-Based Web Interface: Simple and interactive UI for key generation.
--Quantum Simulator Support: Allows testing without requiring quantum hardware.
--Secure Key Storage & Retrieval: Outputs keys in a secure and standardized format, and keys are generated locally.
+Features:
+1. Quantum-Assisted Key Generation: Uses IBM Quantum or Azure Quantum for randomness.
+2. Multiple Cryptographic Algorithms: Supports RSA, ECC, AES, DES, 3DES, and SSH key generation.
+3. Flask-Based Web Interface: Simple and interactive UI for key generation.
+4. Quantum Simulator Support: Allows testing without requiring quantum hardware.
+5. Secure Key Storage & Retrieval: Outputs keys in a secure and standardized format, and keys are generated locally.
 
 Instructions: 
 1. Clone the repository.
