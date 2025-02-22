@@ -4,6 +4,7 @@ Alicia is an innovative project that leverages quantum computing to generate cry
 
 
 -Outputs keys in a secure and standardized format.
+
 -Keys are generated locally.
 
 
