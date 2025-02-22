@@ -2,6 +2,7 @@
 
 Alicia is an innovative project that leverages quantum computing to generate cryptographic key pairs and keys. It utilizes IBM Quantum, Azure Quantum, or a simulated quantum backend to enhance the security of generated keys with true RNG. This project aims to demonstrate how quantum technology can be integrated into modern cybersecurity applications.
 
+-Supports RSA, ECC, AES, DES, 3DES, and SSH
 
 -Outputs keys in a secure and standardized format.
 
