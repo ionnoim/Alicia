@@ -6,6 +6,7 @@ Instructions:
 1. Clone the repository.
 2. Install requirements.
 3. Run alicia.py
+4. Navigate to http://localhost:5000
 
 
 
